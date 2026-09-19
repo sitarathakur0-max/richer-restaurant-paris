@@ -1,0 +1,6 @@
+{
+  "name": "Richer Restaurant Paris 9",
+  "description": "Understated restaurant with exposed-stone walls offering creative local dishes and a curated wine list at 2 Rue Richer, 75009 Paris.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
